@@ -22,10 +22,10 @@ This project involves analyzing layoffs data from a CSV file. The main goals are
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/layoffs-data-analysis.git
+    git clone https://github.com/FaizanAhmed16/Data-Analysis-Project.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd layoffs-data-analysis
+    cd Data-Analysis-Project
     ```
 3. Follow the steps in the Jupyter notebooks or run the SQL scripts to clean the data and perform EDA.
